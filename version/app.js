@@ -5,7 +5,7 @@ var response;
 
 app.get('/', function (req, res) {
 
-    response = 'This is Mcdonald Version.' + '\n';
+    response = 'This is  a Mcdonalds Test Version.' + '\n';
 
     //send the response to the client
     res.send(response);
